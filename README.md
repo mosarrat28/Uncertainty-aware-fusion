@@ -135,13 +135,19 @@ This is especially useful when combining models with complementary strengths und
 
 ## Citation
 
-If you use this work, please cite:
+If you use this work, please cite our SPIE Medical Imaging 2026 paper:
 
 ```bibtex
-@misc{rumman_uncertainty_aware_fusion,
-  title={Uncertainty-Aware Fusion of Foundation and Task-Specific Models for Cardiac MRI Segmentation},
-  author={Isaba Rumman and others},
-  year={2026},
-  note={GitHub repository}
+@inproceedings{10.1117/12.3087524,
+author = {Mosarrat Rumman and Heidar Davoudi and Mehran Ebrahimi},
+title = {Uncertainty-aware fusion of foundation and task-specific models for cardiac MRI segmentation},
+booktitle = {Medical Imaging 2026: Computer-Aided Diagnosis},
+series = {Proceedings of SPIE},
+volume = {13926},
+pages = {1392618},
+year = {2026},
+publisher = {SPIE},
+doi = {10.1117/12.3087524},
+url = {https://doi.org/10.1117/12.3087524}
 }
 
